@@ -1,0 +1,4 @@
+ab+	a+b
+abcd^e-fgh*+^*+i-	a+b*(c^d-e)^(f+g*h)-i
+ab+c-d*ef+-	(a+b-c)*d-(e+f)
+ab+cd+*		(a+b)*(c+d)
